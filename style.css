@@ -15,8 +15,8 @@ body {
 .board {
     display: grid;
     grid-template: repeat(3, 1fr) / repeat(3, 1fr);
-    height: 800px;
-    width: 800px;
+    height: 600px;
+    width: 600px;
     border: solid black 4px;
 }
 
@@ -25,7 +25,8 @@ body {
     align-items: center;
     justify-content: center;
     font-weight: bold;
-    font-size: 6em;
+    font-size: 7em;
     font-family: fantasy;
     border: solid black 4px;
 }
+
